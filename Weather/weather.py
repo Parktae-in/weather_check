@@ -77,4 +77,4 @@ def get_wether(keyword):
 
 
 if __name__ == "__main__":
-    print(get_wether("서울"))
+    print(get_wether("인천"))
